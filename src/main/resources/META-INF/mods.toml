@@ -1,0 +1,11 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+license = "MIT"
+[[mods]]
+modId = "ascensioncraft"
+version = "1.0.0"
+displayName = "AscensionCraft"
+authors = "Jedrak-o"
+description = '''
+A modular magic mod for Minecraft 1.21.5, inspired by Mana and Artifice, etc.
+'''
